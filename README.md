@@ -3,12 +3,8 @@
 - 
 - 🌱 Estou aprendendo React Native
 - 🌱 Estou aprendendo Next JS
-- 
-![Agntc GitHub stats](https://github-readme-stats.vercel.app/api?username=Agntc&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agntc)](https://github.com/Agntc/github-readme-stats)
-<div> 
-  ![Snake animation](https://github.com/Felipeb26/Felipeb26/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Agntc/Agntc/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div>
@@ -27,6 +23,6 @@
   <img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </div>
  ##
-  <a href="http://api.whatsapp.com/send?phone=5511971404157" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="http://api.whatsapp.com/send?phone=5511978313367" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  ![Snake animation](https://github.com/Agntc/Agntc/blob/output/github-contribution-grid-snake.svg)
 </div>
