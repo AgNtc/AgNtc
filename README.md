@@ -4,9 +4,6 @@
 - 🌱 Estou aprendendo React Native
 - 🌱 Estou aprendendo Next JS
 
-![Snake animation](https://github.com/Agntc/Agntc/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 <div>
   <a href="https://github.com/Agntc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agntc&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
