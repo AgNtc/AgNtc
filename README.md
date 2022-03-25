@@ -1,6 +1,6 @@
 ### Olá!Eu sou o Aguido 
 - 🔭 Sou o Aguido tenho 27 anos, moro em SP guarulhos, atualmente estou estagiando como desenvolvedor front end, e nas minhas horas vagas sempre estou tentando aprender mais sobre a tecnologia front end, meu primeiro contato com programação foi com back end, nunca me imaginei programando o front end, mas gostei muito pode se dizer que foi quase amor a primeira vista, acho que é só enfim esse sou EU.
-- 
+
 - 🌱 Estou aprendendo React Native
 - 🌱 Estou aprendendo Next JS
 
@@ -20,6 +20,7 @@
   <img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </div>
  ##
+  <div>
   <a href="http://api.whatsapp.com/send?phone=5511978313367" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- ![Snake animation](https://github.com/Agntc/Agntc/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/Agntc/Agntc/blob/output/github-contribution-grid-snake.svg)
 </div>
