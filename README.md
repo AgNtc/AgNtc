@@ -1,9 +1,10 @@
 ### Olá!Eu sou o Aguido 
-- 🔭 Sou o Aguido tenho 27 anos, moro em SP guarulhos, atualmente estou estagiando como desenvolvedor front end, e nas minhas horas vagas sempre estou tentando aprender mais sobre a tecnologia front end, meu primeiro contato com programação foi com back end, nunca me imaginei programando o front end, mas gostei muito pode se dizer que foi quase amor a primeira vista, acho que é só enfim esse sou EU.
+- 🔭 Sou o Aguido tenho 28 anos, moro em Bertioga litoral de São Paulo, atualmente estou atuando como consultor junior, e nas minhas horas vagas sempre estou tentando aprender mais sobre a tecnologia front end, meu primeiro contato com programação foi com back end, nunca me imaginei programando o front end, mas gostei muito pode se dizer que foi quase amor a primeira vista, acho que é só enfim esse sou EU.
 
-- 🌱 Estou aprendendo React Native
 - 🌱 Estou aprendendo Next JS
-
+- 🌱 Estou aprendendo Angular
+- 🌱 Estou aprendendo AEM
+  
 <div>
   <a href="https://github.com/Agntc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agntc&show_icons=true&theme=blue-green&include_all_commits=true&count_public=true"/>
